@@ -1,2 +1,6 @@
-# customer-churn-analysis
-End-to-end customer churn analysis using Python, SQL, SQLite, Pandas, and data visualization. This project analyzes customer, subscription, and support data to identify churn patterns, customer risk segments, revenue at risk, and actionable business insights.
+Customer Churn Analysis
+Data Analytics | Python | SQL | Pandas | Seaborn | Matplotlib | SQLite
+
+An end-to-end customer churn analytics project that combines customer,
+subscription, and support data to identify churn patterns, revenue at risk,
+customer risk segments, and factors associated with customer attrition.
