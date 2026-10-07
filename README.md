@@ -28,7 +28,7 @@ The data was cleaned, transformed, merged, analyzed, and visualized in Python. T
 ![Customer Demographics Dashboard](powerbi/Dashboard_Images/Customer_Demographics_Dashboard_Image.png)
 
 ### Revenue & Support Analysis
-![Revenue & Support Analysis Dashboard](powerbi/Dashboard_Images/Revenue&Support_Analysis_Dashboard_Image.png)
+![Revenue & Support Analysis Dashboard](powerbi/Dashboard_Images/Revenue%26Support_Analysis_Dashboard_Image.png)
 
 ---
 ##  Business Objectives
