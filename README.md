@@ -19,16 +19,16 @@ This project combines data from three SQLite database tables:
 The data was cleaned, transformed, merged, analyzed, and visualized in Python. The final processed dataset was then used to build an interactive **Power BI dashboard** with three analytical sections.
 
 ---
-## 📊 Power BI Dashboard Pictures
+##  Power BI Dashboard
 
 ### Executive Overview
-![Executive Overview Dashboard](powerbi/Dashboard_Images/Executive_Overview_Dashboard_Image.png)
+![Executive Overview](powerbi/Dashboard_Images/executive_overview.png)
 
 ### Customer Demographics
-![Customer Demographics Dashboard](powerbi/Dashboard_Images/Customer_Demographics_Dashboard_Image.png)
+![Customer Demographics](powerbi/Dashboard_Images/customer_demographics.png)
 
 ### Revenue & Support Analysis
-![Revenue & Support Analysis Dashboard](powerbi/Dashboard_Images/Revenue%26Support_Analysis_Dashboard_Image.png)
+![Revenue & Support Analysis](powerbi/Dashboard_Images/revenue_support_analysis.png)
 
 ---
 ##  Business Objectives
