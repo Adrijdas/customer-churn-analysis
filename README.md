@@ -22,13 +22,13 @@ The data was cleaned, transformed, merged, analyzed, and visualized in Python. T
 ## Power BI Dashboard
 
 ### Executive Overview
-<img src="./powerbi/Dashboard_Images/Executive_Overview_Dashboard_Image.png" width="100%">
+<img src="./powerbi/Dashboard_Images/executive_overview.png" width="100%">
 
 ### Customer Demographics
-<img src="./powerbi/Dashboard_Images/Customer_Demographics_Dashboard_Image.png" width="100%">
+<img src="./powerbi/Dashboard_Images/customer_demographics.png" width="100%">
 
 ### Revenue & Support Analysis
-<img src="./powerbi/Dashboard_Images/Revenue_Support_Analysis_Dashboard_Image.png" width="100%">
+<img src="./powerbi/Dashboard_Images/revenue_support_analysis.png" width="100%">
 
 ---
 ##  Business Objectives
