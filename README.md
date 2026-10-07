@@ -6,7 +6,7 @@ The project analyzes customer, subscription, and support data to understand chur
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer churn is an important business problem because losing customers can affect recurring revenue and customer lifetime value.
 
@@ -19,8 +19,19 @@ This project combines data from three SQLite database tables:
 The data was cleaned, transformed, merged, analyzed, and visualized in Python. The final processed dataset was then used to build an interactive **Power BI dashboard** with three analytical sections.
 
 ---
+## 📊 Power BI Dashboard Pictures
 
-## 🎯 Business Objectives
+### Executive Overview
+![Executive Overview Dashboard](powerbi/Dashboard_Images/Executive_Overview_Dashboard_Image.png)
+
+### Customer Demographics
+![Customer Demographics Dashboard](powerbi/Dashboard_Images/Customer_Demographics_Dashboard_Image.png)
+
+### Revenue & Support Analysis
+![Revenue & Support Analysis Dashboard](powerbi/Dashboard_Images/Revenue&Support_Analysis_Dashboard_Image.png)
+
+---
+##  Business Objectives
 
 The main objectives of this project are to:
 
@@ -35,7 +46,7 @@ The main objectives of this project are to:
 - Create an interactive Power BI dashboard for business reporting
 
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python**
 - **Jupyter Notebook**
@@ -46,7 +57,7 @@ The main objectives of this project are to:
 - **SQLite** – database querying
 - **Power BI** – interactive dashboard and business reporting
 
-## 📊 Data Sources
+##  Data Sources
 
 ### 1. Customer Data
 
@@ -86,7 +97,7 @@ Main support fields include:
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 The Python notebook performs the following data preparation steps:
 
@@ -114,7 +125,7 @@ The Python notebook performs the following data preparation steps:
 
 ---
 
-## 🔎 Key Analytical Areas
+##  Key Analytical Areas
 
 The notebook covers analysis across:
 
@@ -161,7 +172,7 @@ The notebook covers analysis across:
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 ### Overall Churn
 
@@ -244,7 +255,7 @@ The largest recorded cancellation-reason groups include:
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 The final Power BI report is divided into three sections.
 
@@ -301,7 +312,7 @@ Key visuals include:
 
 ---
 
-## 💡 Business Takeaways
+##  Business Takeaways
 
 The analysis highlights several areas that are useful for further business investigation:
 
@@ -317,7 +328,7 @@ The analysis highlights several areas that are useful for further business inves
 These are descriptive findings from the analyzed dataset and should not be interpreted as proof of causation without further statistical analysis.
 
 
-## ⚠️ Data & Analysis Notes
+##  Data & Analysis Notes
 
 - The final analysis dataset contains **10,000 customer-level records**.
 - The support source contains multiple records for some customers. Complaint counts are calculated before keeping the latest support record for the final customer-level merge.
@@ -328,14 +339,6 @@ These are descriptive findings from the analyzed dataset and should not be inter
 - Missing complaint counts are treated as zero for complaint-count analysis.
 - Some state-level groups are very small and should therefore be interpreted carefully.
 
-
-## 👤 Author
-
-**Adrij Das**
-
-Customer Churn Analysis | Python | SQL | Power BI | Data Analytics
-
----
 
 ## ⭐ Project Summary
 
